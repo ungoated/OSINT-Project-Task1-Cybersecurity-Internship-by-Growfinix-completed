@@ -1,0 +1,29 @@
+
+; <<>> DiG 9.20.23-1-Debian <<>> tesla.com A
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 22365
+;; flags: qr rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;tesla.com.			IN	A
+
+;; ANSWER SECTION:
+tesla.com.		300	IN	A	2.18.50.207
+tesla.com.		300	IN	A	23.40.100.207
+tesla.com.		300	IN	A	2.18.48.207
+tesla.com.		300	IN	A	2.18.51.207
+tesla.com.		300	IN	A	2.18.52.207
+tesla.com.		300	IN	A	23.7.244.207
+tesla.com.		300	IN	A	2.18.55.207
+tesla.com.		300	IN	A	2.18.53.207
+tesla.com.		300	IN	A	2.18.49.207
+tesla.com.		300	IN	A	2.18.54.207
+
+;; Query time: 352 msec
+;; SERVER: 10.234.48.59#53(10.234.48.59) (UDP)
+;; WHEN: Sat Jul 25 04:46:06 EDT 2026
+;; MSG SIZE  rcvd: 198
+

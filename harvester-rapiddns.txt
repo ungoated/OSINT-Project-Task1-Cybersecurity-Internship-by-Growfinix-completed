@@ -1,0 +1,116 @@
+Read proxies.yaml from /etc/theHarvester/proxies.yaml
+*******************************************************************
+*  _   _                                            _             *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __|  _ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* theHarvester 4.10.1                                             *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*                                                                 *
+*******************************************************************
+
+[*] Target: tesla.com 
+
+[*] Searching Rapiddns. 
+
+[*] No IPs found.
+
+[*] No emails found.
+
+[*] No people found.
+
+[*] Hosts found: 89
+---------------------
+akamai-apigateway-bender.tesla.com:akamai-apigateway-bender.tesla.com.edgekey.net
+akamai-apigateway-deliveryopsapi.tesla.com:akamai-apigateway-deliveryopsapi.tesla.com.edgekey.net
+akamai-apigateway-finplateng.tesla.com:akamai-apigateway-finplateng.tesla.com.edgekey.net
+akamai-apigateway-mfs-supplier.tesla.com:akamai-apigateway-mfs-supplier.tesla.com.edgekey.net
+akamai-apigateway-ops-warp3pl.tesla.com:akamai-apigateway-ops-warp3pl.tesla.com.edgekey.net
+akamai-apigateway-profileapi.tesla.com:akamai-apigateway-profileapi.tesla.com.edgekey.net
+akamai-apigateway-stg-ops-warp3pl.tesla.com:akamai-apigateway-stg-ops-warp3pl.tesla.com.edgekey.net
+akamai-apigateway-stg-vendorpartsapi.tesla.com:akamai-apigateway-stg-vendorpartsapi.tesla.com.edgekey.net
+akamai-apigateway-stg-warptqpapi.tesla.com:akamai-apigateway-stg-warptqpapi.tesla.com.edgekey.net
+akamai-apigateway-vfx.tesla.com:akamai-apigateway-vfx.tesla.com.edgekey.net
+akamai-apigateway-warpcxml.tesla.com:akamai-apigateway-warpcxml.tesla.com.edgekey.net
+akamai-apigateway-warptqpapi.tesla.com:akamai-apigateway-warptqpapi.tesla.com.edgekey.net
+api-firebolt-stage.tesla.com:external-na-pop1.edgekey.net
+api-firebolt.tesla.com:external-na-pop1.edgekey.net
+apps.tesla.com:apps.tesla.com.edgekey.net
+auth-global-stage.tesla.com:auth-global-stage.tesla.com.edgekey.net
+auth-global.tesla.com:auth-global.tesla.com.edgekey.net
+auth-stage.tesla.com:auth-stage.tesla.com.edgekey.net
+autobidder-preprd.powerhub.energy.tesla.com:energy.tesla.com.edgekey.net
+autodiscover.tesla.com:autodiscover.outlook.com
+bolt.tesla.com:bolt.tesla.com.edgekey.net
+business-ui-ownership.tesla.com:business-ui-ownership.tesla.com.edgekey.net
+cicerone.tesla.com:cicerone.tesla.com-v1.edgekey.net
+cld-ec.tesla.com:cld-ec.tesla.com.edgekey.net
+cloudprotect.tesla.com:tesla.gpcloudservice.com
+emails.tesla.com:13.111.18.27
+engage.tesla.com:d26t17nbk55wf2.cloudfront.net
+envoy-partnertasks.tesla.com:external-na-pop1.edgekey.net
+epuca-prd.euw1.vn.cloud.tesla.com:epuca-prd-c-5f9100729b47524e.elb.eu-west-1.amazonaws.com
+errlog-stage.tesla.com:errlog-stage.tesla.com.edgekey.net
+feedback.tesla.com:fb-na.tesla.com.akadns.net
+financial-gw.tesla.com:199.66.9.77
+finops.tesla.com:external-na-pop1.edgekey.net
+hermes-ap.eng.vn.cloud.tesla.com:usw-eng5x-hermes-npuaph-prd.teslafleet.akadns.net
+hermes-ap.prd.vn.cloud.tesla.com:usw-prd5x-hermes-npuaph-prd.teslafleet.akadns.net
+hub.tesla.com:ipa.teslazta.net.srip.net
+image-emails.tesla.com:image-emails.tesla.com.edgekey.net
+image.email.tesla.com:image.s7.exacttarget.com.edgesuite.net
+image.emails.tesla.com:image-emails.tesla.com
+link.tesla.com:link.tesla.com.edgekey.net
+livestreamapi-test.tesla.com:livestreamapi-test.tesla.com.edgekey.net
+mfa-reset.tesla.com:mfa-reset.tesla.com.edgekey.net
+mfa.tesla.com:mfa.tesla.com.edgekey.net
+mobile.tesla.com:mobile.tesla.com.edgekey.net
+myapps.tesla.com:myapps.tesla.com.edgekey.net
+npuapt-eng.usw.vn.cloud.tesla.com:usw-eng5b-fleet-npuapt-prd.teslafleet.akadns.net
+npuapt-eng.usw.vn.cloud.tesla.com:usw-eng5c-fleet-npuapt-prd.teslafleet.akadns.net
+npuapt-eng.usw.vn.cloud.tesla.com:usw-eng5d-fleet-npuapt-prd.teslafleet.akadns.net
+npuhe-eng.euw1.vn.cloud.tesla.com:npuhe-eng-a-a2655df355347637.elb.eu-west-1.amazonaws.com
+npuhe-eng.usw2.vn.cloud.tesla.com:npuhe-eng-a-c517f248c251dc44.elb.us-west-2.amazonaws.com
+npute-prd.euw1.vn.cloud.tesla.com:npute-prd-a-8d213534bb239439.elb.eu-west-1.amazonaws.com
+npute-prd.usw.vn.cloud.tesla.com:usw-prd5d-fleet-npute-prd.teslafleet.akadns.net
+npuv-eng.usw.vn.cloud.tesla.com:usw-eng5c-fleet-npuv-prd.teslafleet.akadns.net
+npuv-eng.usw2.vn.cloud.tesla.com:npuv-eng-b-94d0021698f87193.elb.us-west-2.amazonaws.com
+npuv-prd.euw1.vn.cloud.tesla.com:npuv-prd-b-5bb8d76a47129e28.elb.eu-west-1.amazonaws.com
+npuv-prd.usw2.vn.cloud.tesla.com:npuv-prd-a-6a3603d7820d364a.elb.us-west-2.amazonaws.com
+npuv-prd.usw2.vn.cloud.tesla.com:npuv-prd-b-8eac09b6fef3ab8f.elb.us-west-2.amazonaws.com
+origin-edr.tesla.com:clsgenp.tesla.com.akadns.net
+origin-finplat-stg.tesla.com:clsfins.tesla.com.akadns.net
+origin-mobile.tesla.com:209.133.79.82
+origin-partners.tesla.com:clsmdcwarpp.tesla.com.akadns.net
+origin-pay.tesla.com:fin-pay.tesla.com.akadns.net
+origin-profile.tesla.com:clsmdcwarpp.tesla.com.akadns.net
+origin-sales-prd.tesla.com:ces-sales-prd.tesla.com.akadns.net
+origin-static-assets-pay.tesla.com:fin-static-assets-pay.tesla.com.akadns.net
+origin-static-assets-teslaaccount.tesla.com:clsmdcgenp.tesla.com.akadns.net
+origin-suppliers-stg.tesla.com:clswarps.tesla.com.akadns.net
+origin-www-auth.tesla.com:digitalsso.tesla.com.akadns.net
+partnerleadsharing.tesla.com:global-static-assets.tesla.com.akadns.net
+powerhub.energy.tesla.com:powerhub.sn.tesla.services
+profile.tesla.com:profile.tesla.com.edgekey.net
+repair.tesla.com:repair.tesla.com.edgekey.net
+sales-prd.tesla.com:external-na-pop1.edgekey.net
+schedule.tesla.com:schedule.tesla.com.edgekey.net
+secure-static-assets.tesla.com:secure-static-assets.tesla.com.edgekey.net
+service.tesla.com:service.tesla.com.edgekey.net
+serviceapi.tesla.com:serviceapi.tesla.com-v1.edgekey.net
+shop.eu.tesla.com:205.234.27.221
+shop.tesla.com:shop.tesla.com.edgekey.net
+sso-dev.tesla.com:sso-dev.edgekey.net
+sso.tesla.com:tslaso.edgekey.net
+stage-traffic-flow-test.tesla.com:stage-traffic-flow-test.tesla.com.edgekey.net
+tcc-gw-stg.tesla.com:external-na-pop1.edgekey.net
+teamchat.tesla.com:teamchat.tesla.com.edgekey.net
+telemetry-ap.eng.vn.cloud.tesla.com:npuapt-eng.usw.vn.cloud.tesla.com
+url2547.tesla.com:sendgrid.net
+url7051.tesla.com:url7051.tesla.com.edgekey.net
+view.email.tesla.com:view.virt.s7.exacttarget.com
+warehouse.tesla.com:warehouse.tesla.com.edgekey.net
