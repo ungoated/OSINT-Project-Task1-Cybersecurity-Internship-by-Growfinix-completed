@@ -89,3 +89,4 @@ See [COMMANDS.md](COMMANDS.md) for the command reference.
 ## Conclusion
 
 The exercise demonstrates that passive OSINT can provide useful context for asset inventory and DNS hygiene while respecting a strict non-intrusive boundary. The appropriate next step in a real engagement would be to reconcile observations with an approved asset inventory and obtain explicit written authorisation before any validation activity.
+#done

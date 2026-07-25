@@ -34,3 +34,4 @@
 - A hostname returned by a passive source is not proof that it is current, reachable, owned by the target, or authorised for testing.
 - Certificate and DNS data are snapshots and can differ across sources and collection times.
 - Do not extend these commands into port scanning, endpoint enumeration, login attempts, or vulnerability testing without written authorisation.
+#done

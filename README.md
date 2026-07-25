@@ -72,4 +72,4 @@ See [COMMANDS.md](COMMANDS.md) for the exact commands and the purpose of each. T
 
 ## Disclaimer
 
-All organisation names and public records are used solely for academic demonstration. This repository does not claim that any observed service is vulnerable or that a discovered hostname is currently active, owned, or in scope for testing.
+All organisation names and public records are used solely for academic demonstration. This repository does not claim that any observed service is vulnerable or that a discovered hostname is currently active, owned, or in scope for testing.#done
